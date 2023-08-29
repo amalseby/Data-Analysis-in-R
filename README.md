@@ -1,6 +1,7 @@
- # Brief Explaination of the project( for more please go through the main pdf)
+# Brief Explaination of the project( for more please go through the main pdf)
 
-Introduction:
+# Introduction:
+
 This dataset generated from kaggle website. https://www.kaggle.com/hadiyad/lendingclub-data-sets
 (https://www.kaggle.com/hadiyad/lendingclub-data-sets)
 
@@ -14,7 +15,7 @@ company arises from lending to risky candidates, as defaulting borrowers lead to
 The objective of the case study is to use machine learning to identify such high-risk candidates and determine the key variables that 
 predict loan default, ultimately aiding the company in managing its portfolio and risk assessment.
 
-Tasks:
+# Tasks:
 
 1) Data Preparation
 Part -1 Binary Classification
@@ -33,7 +34,7 @@ Single Variable Model
   
 6) Clustering
 
-Conclusion
+# Conclusion
 We utilised the Lending Club dataset to fit a predictive classifier that can predict whether an application would
 pay back the loan in full or default based on their profile. We can predict 70% of the correct outcomes using
 our approach. Although not perfect, this is a good start to forecasting, and perhaps in the future we will be
