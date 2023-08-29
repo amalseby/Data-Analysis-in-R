@@ -17,20 +17,20 @@ predict loan default, ultimately aiding the company in managing its portfolio an
 
 # Tasks:
 
-1) Data Preparation
-Part -1 Binary Classification
-Splitting train, Calibration and Test dataset
-Class Imbalanced
+1) Data Preparation:
+Splitting train, Calibration and Test dataset,
+Binary Classification,
+Class Imbalanced.
 
-2) Data Modelling
-NULL Model
-Single Variable Model
+2) Data Modelling:
+   NULL Model,
+   Single Variable Model.
 
 3) FEATURE SELECTION
 
-4) 3. Logistic Regression Model
+4) Logistic Regression Model
   
-5) 4. Decision Tree Model
+5) Decision Tree Model
   
 6) Clustering
 
