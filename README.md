@@ -12,6 +12,9 @@ applicants and their repayment behavior to identify patterns that indicate likel
 This information is used to make decisions like loan rejection, adjusting loan amounts, or lending to riskier applicants at higher interest rates.
 Loan outcomes can result in full payment or being charged-off due to non-payment. The main financial risk for the 
 company arises from lending to risky candidates, as defaulting borrowers lead to credit losses. 
+
+# Aim: 
+
 The objective of the case study is to use machine learning to identify such high-risk candidates and determine the key variables that 
 predict loan default, ultimately aiding the company in managing its portfolio and risk assessment.
 
